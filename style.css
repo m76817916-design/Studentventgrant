@@ -1,0 +1,8 @@
+body{font-family:Arial;background:#f4f4f4;margin:0}
+header{background:#006400;color:white;text-align:center;padding:15px}
+.container{background:white;padding:20px;margin:30px auto;width:90%;max-width:700px}
+input,select,button{width:100%;padding:10px;margin:10px 0}
+button{background:#006400;color:white;border:none}
+table{width:100%;border-collapse:collapse}
+th,td{border:1px solid #ccc;padding:8px}
+th{background:#006400;color:white}
